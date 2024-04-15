@@ -13,8 +13,7 @@ Simple script to create github account with selenium
 
 2. **Install library:**
    - Download and install library required.
-   - ```pip install selenium requests```
-   - 
+     ```pip install selenium requests```
 ### Usage
 1. **Run the Bot:**
    - After completing the installation, run the script to start using ```python main.py```.
